@@ -1,2 +1,3 @@
-# ml-for-iot
-Machine Learning for Internet of Things
+# Machine Learning for Internet of Things
+
+Accompanying materials for my lecture.
